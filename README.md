@@ -5,7 +5,7 @@
 
 <div align="center">
 <br/>
-<img src="https://github.com/Mennaco/Mennaco/blob/main/dal9hu1-312417ff-2ea6-4173-bcd7-54d8ba098071.gif?raw=true">
+<img src="">
 
 <br />
 
